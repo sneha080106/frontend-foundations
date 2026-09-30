@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    font-family: Regular Libre Baskerville;
+    font-style:  Regular Libre Baskerville;
+    color: white;
+}
+p{
+    color: white;
+}
+img{
+    border: 5px solid white;
+}
